@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+  }
+  .margin{
+    float: left;
+    width:20%;
+    height: 2000px;
+    background-color:#bd5d38;
+    
+} 
+  .column {
+    float: left;
+    width: 80%;
+    height: 2000px; /* Should be removed. Only for demonstration */
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .profilepicdiv{
+      margin-top: 20%;
+      background-color: #fa7d4c;
+      border-radius: 50%;
+      margin-left: 18%;
+      margin-right: 15%;
+      
+      
+  }
+  .profilepic{
+    border-radius: 100px;
+    margin: 5px 5px 5px 5px;
+    align-items: center;
+    
+  }
+  

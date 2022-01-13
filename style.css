@@ -39,4 +39,14 @@
   .lastname{
     color: #fa7d4c;
   }
+
+  .experience{
+    margin-left: 4%;
+  }
+  table{
+    width: 100%;
+  }
+  td{
+    width: 50%;
+  }
   

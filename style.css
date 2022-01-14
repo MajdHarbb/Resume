@@ -10,8 +10,14 @@
   a{
     color: white;
   }
+  .career{
+    color: silver;
+  }
   .clhr{
     width: 75%;
+  }
+  .dates{
+    color: #fa7d4c;
   }
   .fourpercent{
     margin-left: 4%;

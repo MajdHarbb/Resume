@@ -5,14 +5,14 @@
   .margin{
     float: left;
     width:20%;
-    height: 2000px;
+    height: 1793.45px;
     background-color:#bd5d38;
     
 } 
   .column {
     float: left;
     width: 80%;
-    height: 2000px; /* Should be removed. Only for demonstration */
+    height: auto; /* Should be removed. Only for demonstration */
   }
 
   /* Clear floats after the columns */

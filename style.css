@@ -2,6 +2,23 @@
 * {
     box-sizing: border-box;
   }
+  body{
+    margin: 0%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  a{
+    color: white;
+  }
+  .clhr{
+    width: 75%;
+  }
+  .fourpercent{
+    margin-left: 4%;
+  }
+  .contact{
+    text-align: center;
+    color: white;
+  }
   .margin{
     float: left;
     width:20%;
@@ -35,6 +52,15 @@
     margin: 5px 5px 5px 5px;
     align-items: center;
     
+  }
+  .name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 60px;
+  }
+  .tds{
+    width: 70%;
+  }
+  .zeromarg{
+    margin-top: 0%;
   }
   .lastname{
     color: #fa7d4c;
